@@ -1,2 +1,2 @@
-# IBM-Data-Science-Specialization
-Coursework Portfolio
+# IBM Data Science Specialization
+Coursework Portfolio to showcase data science experiece
